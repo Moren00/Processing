@@ -1,4 +1,6 @@
-#Processing comunicate with Ardduino
+//PROCESSING COMUNICATE WITH ARDUINO
+
+//You need Processing's software and an Arduino board, to run this file
 
 /*
   Name: Inversione di marcia di un m.a.t.(motore asincrono trifase) tramite relè pilotati da Arduino
